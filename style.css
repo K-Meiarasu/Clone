@@ -291,15 +291,6 @@ input{
     margin-left: 100px;
     margin-right: 100px;
 }
-.logo{
-
-}
-.list1{
-
-}
-.list2{
-
-}
 .footer{
     background-color: black;
     color: white;
@@ -307,8 +298,10 @@ input{
     justify-content: space-between;
 }
 .cr{
-
+    display: flex;
+    margin-left: 100px;
 }
 .pow{
-
+    display: flex;
+    margin-right: 100px;
 }
